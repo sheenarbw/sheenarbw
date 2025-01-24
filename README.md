@@ -10,6 +10,12 @@ You can follow me on the different social media platforms to see what I'm up to:
 - [Twitter: @sheena_oconnell](https://twitter.com/sheena_oconnell)
 - [LinkedIn](https://www.linkedin.com/in/sheena-o-connell-0bb72527/)
 
+### Prelude
+
+I founded a company called Prelude. Prelude offers super high quality Python and Django training. 
+
+You can see what people are saying about it [here](https://prelude.tech/)
+
 ### Guild of Educators 
 
 I started the Guild of Educators. It's a community for tech education nerds. The guild aims to spread knowledge and skills in tech education. I've learned a LOT about tech ed in the past few years. I know all the ins and outs of what it takes to help a noob grow into a pro (we were all noobs once). I want to give power to tech educators by sharing my expertise, and I want to learn about the problems and solutions from other people's contexts. 
